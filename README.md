@@ -18,6 +18,9 @@ The OG "Playday" content - nodeschool provides fantastic, guided tutorials on se
 
 Most popular front-end framework, with a fantastic ecosystem, from Facebook
 
+- **I'm just getting started:** https://reactjs.org/tutorial/tutorial.html
+- **I want an idea for a project to build:** https://daveceddia.com/react-practice-projects/ 
+
 ## Angular
 
 First framework to be built w/ TypeScript, from Google
@@ -26,3 +29,8 @@ First framework to be built w/ TypeScript, from Google
 
 Simple to setup, growing, great documentation
 - **I'm just getting started:** https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance
+
+## Ember
+
+Full-featured web application framework, batteries included
+- **I'm just getting started:** https://guides.emberjs.com/release/tutorial/ember-cli/
