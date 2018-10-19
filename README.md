@@ -20,7 +20,7 @@ Most popular front-end framework, with a fantastic ecosystem, from Facebook
 
 ## Angular
 
-First framework to be built w/ TypeScript, from Google originally
+First framework to be built w/ TypeScript, from Google
 
 ## Vue
 
