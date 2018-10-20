@@ -18,19 +18,21 @@ The OG "Playday" content - nodeschool provides fantastic, guided tutorials on se
 
 Most popular front-end framework, with a fantastic ecosystem, from Facebook
 
-- **I'm just getting started:** https://reactjs.org/tutorial/tutorial.html
+- **I'm just getting started - take me to the official docs:** https://reactjs.org/tutorial/tutorial.html
 - **I want an idea for a project to build:** https://daveceddia.com/react-practice-projects/ 
 
 ## Angular
 
 First framework to be built w/ TypeScript, from Google
+- **I'm just getting started - take me to the official docs:** https://angular.io/guide/quickstart
 
 ## Vue
 
 Simple to setup, growing, great documentation
-- **I'm just getting started:** https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance
+- **I'm just getting started - take me to the official docs:** https://vuejs.org/v2/guide/
+- **I'm just getting started, and I like tutorials:** https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance
 
 ## Ember
 
 Full-featured web application framework, batteries included
-- **I'm just getting started:** https://guides.emberjs.com/release/tutorial/ember-cli/
+- **I'm just getting started - take me to the official docs:** https://guides.emberjs.com/release/tutorial/ember-cli/
